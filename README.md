@@ -28,7 +28,7 @@ Construct a target environment in your home directory:
 ./bsd_installer --os openbsd
 ```
 
-### Verification
+## Verification
 ```bash
 # Check the synthetic identity of NetBSD
 file ~/NetBSD/kernel
@@ -37,7 +37,6 @@ netbsd_uname
 # Check the synthetic identity of OpenBSD
 file ~/OpenBSD/kernel
 openbsd_uname
-```
 ```
 
 ## Documentation
